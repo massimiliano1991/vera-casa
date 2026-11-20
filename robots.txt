@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://veradiade.com/sitemap.xml
